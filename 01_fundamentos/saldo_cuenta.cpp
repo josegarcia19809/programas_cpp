@@ -18,6 +18,7 @@ int main() {
     double total_depositos;
     double total_retiros;
     double saldo_actual;
+
     cout << "Calcular el saldo actual en una cuenta de ahorros" << endl;
     cout << "Dime el saldo inicial: ";
     cin >> saldo_inicial;
