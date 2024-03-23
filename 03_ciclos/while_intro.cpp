@@ -1,10 +1,7 @@
-/*
-*
- * Elaborado por José L. García
+/* Elaborado por José L. García
+ *
+ *
  */
-// saludos
-// Este programa imprime un saludo usando un ciclo while
-
 
 #include <iostream>
 using namespace std;
